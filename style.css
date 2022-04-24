@@ -1,0 +1,21 @@
+.progress {
+    width: 200px;
+  }
+  
+  .progress-fill {
+    height: 25px;
+    width: 0%;
+    border-radius: 5px;
+    background: #009578;
+    transition: width 0.5s;
+  }
+  
+  .progress-text {
+    padding: 10px;
+    text-align: center;
+    color: #777;
+    font-size: 14px;
+    font-style: italic;
+    font-family: sans-serif;
+  }
+  
